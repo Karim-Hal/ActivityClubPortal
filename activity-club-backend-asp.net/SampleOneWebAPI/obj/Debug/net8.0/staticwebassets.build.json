@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NEt9tjRsv3eWfPQLv6gfDgaoww4wLu/MZ1zokryhpxI=",
+  "Source": "SampleOneWebAPI",
+  "BasePath": "_content/SampleOneWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
